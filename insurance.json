@@ -1,0 +1,56 @@
+{
+  "lifeInsurance": [
+    {
+      "id": 101,
+      "policyHolderName": "Ramesh",
+      "policyAmount": 6789000,
+      "maturityDate": "2011-11-12"
+    },
+    {
+      "id": 102,
+      "policyHolderName": "Ajay",
+      "policyAmount": 5500000,
+      "maturityDate": "2011-11-12"
+    },
+    {
+      "id": 103,
+      "policyHolderName": "Vijay",
+      "policyAmount": 5500000,
+      "maturityDate": "2011-11-12"
+    },
+    {
+      "id": 104,
+      "policyHolderName": "Mahesh",
+      "policyAmount": 5500000,
+      "maturityDate": "2011-11-12"
+    },
+    {
+      "id": 105,
+      "policyHolderName": "Suresh",
+      "policyAmount": 5500000,
+      "maturityDate": "2011-11-12"
+    }
+  ],
+  "advisors": [
+    {
+      "id": 101,
+      "name": "Ramesh",
+      "mobileNumber": 999999
+    },
+    {
+      "id": 102,
+      "name": "Rajesh",
+      "mobileNumber": 888888
+    },
+    {
+      "id": 103,
+      "name": "Suresh",
+      "mobileNumber": 777777
+    },
+    {
+      "id": 104,
+      "name": "Mahesh",
+      "mobileNumber": 666666
+    }
+  ]
+}
